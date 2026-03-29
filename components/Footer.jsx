@@ -18,7 +18,7 @@ export default function Footer() {
         <div className="flex items-center gap-6">
           
           <motion.a
-            href="https://github.com/yourusername"
+            href="https://github.com/AbhinavMehta123"
             target="_blank"
             rel="noopener noreferrer"
             whileHover={{ y: -2 }}
@@ -29,7 +29,7 @@ export default function Footer() {
           </motion.a>
 
           <motion.a
-            href="https://linkedin.com/in/yourprofile"
+            href="https://www.linkedin.com/in/abhinav-mehta-237194324?utm_source=share_via&utm_content=profile&utm_medium=member_android"
             target="_blank"
             rel="noopener noreferrer"
             whileHover={{ y: -2 }}

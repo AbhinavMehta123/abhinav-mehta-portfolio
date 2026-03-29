@@ -135,7 +135,7 @@ export default function MobileOptimizedHero() {
 
                     <motion.div variants={slowFadeUp} className="w-full sm:w-auto">
                         <motion.a
-                            href="/resume.pdf"
+                            href="/WebAssets/Abhinav Mehta Resume.pdf"
                             download="Abhinav_Mehta_Resume.pdf"
                             whileHover="active"
                             whileTap="active"
