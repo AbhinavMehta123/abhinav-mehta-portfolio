@@ -29,7 +29,7 @@ const PROJECTS = [
   {
     title: "Bella Vista Site",
     id: "03",
-    description: "A full-stack hackathon management platform featuring a Node.js backend and MongoDB.",
+    description: "A restaurant website for table reservation",
     tech: ["HTML", "CSS", "Web3Forms"],
     link: "https://bella-vista-authentic-restaurant.netlify.app/",
     github: "https://github.com/AbhinavMehta123",
@@ -39,7 +39,7 @@ const PROJECTS = [
    {
     title: "AI Marks Grader",
     id: "04",
-    description: "A full-stack hackathon management platform featuring a Node.js backend and MongoDB.",
+    description: "A full-stack AI Marks Grader using Python",
     tech: ["Python", "Streamlit", "SQL"],
     link: "https://ai-answer-grader.streamlit.app/",
     github: "https://github.com/AbhinavMehta123",
@@ -49,7 +49,7 @@ const PROJECTS = [
   {
     title: "Gaming Site",
     id: "05",
-    description: "A full-stack hackathon management platform featuring a Node.js backend and MongoDB.",
+    description: "A Gaming Site for game promotion.",
     tech: ["React.js","Tailwind CSS"],
     link: "https://illuviumcom.netlify.app/",
     github: "https://github.com/AbhinavMehta123",
@@ -59,7 +59,7 @@ const PROJECTS = [
   {
     title: "BUILD-A-THON Site",
     id: "06",
-    description: "A full-stack hackathon management platform featuring a Node.js backend and MongoDB.",
+    description: "A hackathon management platform.",
     tech: ["React.js", "React Router Dom", "Tailwind CSS"],
     link: "https://build-a-thon-alfacodingclub.netlify.app/",
     github: "https://github.com/AbhinavMehta123",
