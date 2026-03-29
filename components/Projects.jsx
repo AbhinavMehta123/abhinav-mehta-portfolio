@@ -11,7 +11,7 @@ const PROJECTS = [
     id: "01",
     description: "Official tech-fest website with event registration and dynamic schedule management.",
     tech: ["Next.js", "Tailwind", "Framer Motion"],
-    link: "https://tech-samaroh.vercel.app/",
+    link: "https://tech-samarooh.vercel.app/",
     github: "https://github.com/AbhinavMehta123",
     image: "/WebAssets/Project1.jpeg",
     accent: "rgba(37, 99, 235, 0.35)", 
