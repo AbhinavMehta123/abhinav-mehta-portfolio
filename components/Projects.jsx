@@ -57,7 +57,7 @@ const PROJECTS = [
     accent: "rgba(16, 185, 129, 0.35)", 
   },
   {
-    title: "BUILD-A-THORN Site",
+    title: "BUILD-A-THON Site",
     id: "06",
     description: "A full-stack hackathon management platform featuring a Node.js backend and MongoDB.",
     tech: ["React.js", "React Router Dom", "Tailwind CSS"],
